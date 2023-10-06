@@ -1,5 +1,5 @@
 # random-quote-generator
-This is a website written with javascript that generates random tweets which you are able to post to your personal X(formally known as twitter) account.
+This is a website that generates random tweets which you are able to post to your personal X(formally known as twitter) account.
 
 
 ### Links
